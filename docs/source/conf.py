@@ -4,7 +4,7 @@
 
 project = 'CC 6L'
 copyright = '2025, BSIT3'
-author = 'Macabingui,Alamis,Minor'
+author = 'Macabinguil Aiya,Alamis Rezza mea,Minor Kim Bryle'
 
 release = '0.1'
 version = '0.1.0'
