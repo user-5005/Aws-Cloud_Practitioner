@@ -1,7 +1,7 @@
 Welcome to Aws Cloud Practitioner!
 ===================================
 
-Author:Macabingui,Alamis,Minor
+Author:Macabinguil Aiya,Alamis Rezza Mea,Minor Kim Bryle
 
 
 *Overview*
