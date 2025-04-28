@@ -19,5 +19,7 @@ Contents
    introduction
    preparation steps
    Getting acquainted with AWS Cloud Quest
+   A3 - Connect to an EC2 Instance
+
    
    
