@@ -1,12 +1,13 @@
-Getting acquainted with AWS Cloud Quest
-=====================================
+GETTING ACQUAINTED WITH AWS CLOUD QUEST
+=======================================
 
 Overview
-------
+--------
 
-In this step we will register and familiarize yourself with the interface of Cloud Quest, then build a profile for your Cloud citizen.
+In this step we will register and familiarize yourself with the interface of **Cloud Quest**, then build a profile for your **Cloud citizen**.
 
 Content
-------
-Register and check the system
-Build profile
+-------
+
+- `Register and check the system <#>`_
+- `Build profile <#>`_
