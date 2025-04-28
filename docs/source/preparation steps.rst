@@ -19,3 +19,8 @@ Mobile browsers are not supported.
 
 Content
 ============================
+.. toctree::  
+   :maxdepth: 2  
+
+    -Create Amazon account
+    -Login to AWS Cloud Quest: Cloud Practitioner with Amazon account
