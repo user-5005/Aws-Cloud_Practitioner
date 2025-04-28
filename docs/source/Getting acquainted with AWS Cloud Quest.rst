@@ -1,4 +1,4 @@
-GETTING ACQUAINTED WITH AWS CLOUD QUEST
+Getting acquainted with AWS Cloud Quest
 =======================================
 
 Overview
