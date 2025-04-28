@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   Introduction
-   Preparation Steps
+   introduction
+   preparation 
