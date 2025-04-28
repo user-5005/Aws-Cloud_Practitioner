@@ -18,3 +18,6 @@ Contents
 
    introduction
    preparation steps
+   Getting acquainted with AWS Cloud Quest
+   
+   
