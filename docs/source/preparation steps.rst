@@ -18,7 +18,7 @@ Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or
 Mobile browsers are not supported.
 
 Content
-============================
+------
 
     -Create Amazon account
     -Login to AWS Cloud Quest: Cloud Practitioner with Amazon account
