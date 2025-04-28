@@ -1,9 +1,8 @@
 Preparation Steps
 ===================================
 
-Preparation Steps
-
 Overview
+--------
 
 To participate in AWS Cloud Quest: Cloud Practitioner we need to prepare:
 
