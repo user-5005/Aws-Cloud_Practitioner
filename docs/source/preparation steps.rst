@@ -6,9 +6,9 @@ Overview
 
 To participate in AWS Cloud Quest: Cloud Practitioner we need to prepare:
 
-1.Amazon Account
+1. Amazon Account
 
-2.System equipment meets the following requirements:
+2. System equipment meets the following requirements:
 
 - OS: 64Bit operating system (Windows, macOS and Linux)
 - Storage: 1GB available space
