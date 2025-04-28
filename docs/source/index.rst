@@ -1,7 +1,7 @@
 Welcome to Aws Cloud Practitioner!
 ===================================
 
-Author:Macabinguil Aiya, Alamis Rezza Mea and Minor Kim Brylle
+Author: Macabinguil Aiya, Alamis Rezza Mea and Minor Kim Brylle
 
 
 *Overview*
@@ -16,4 +16,4 @@ Contents
 .. toctree::
 
    introduction
-   preparation 
+   preparation steps
