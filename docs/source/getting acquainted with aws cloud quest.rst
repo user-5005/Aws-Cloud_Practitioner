@@ -10,5 +10,5 @@ Content
 -------
 
 - `Register and check the system <#>`_
-:doc:`Create Account <register_and_test_the_system>`
+:doc: `Create Account <register_and_test_the_system>`
 - `Build profile <#>`_
