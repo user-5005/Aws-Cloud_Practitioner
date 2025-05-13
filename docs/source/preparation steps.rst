@@ -32,6 +32,6 @@ Content
    :maxdepth: 2  
    :titlesonly:
    
-   create an amazon account
+   create an amazon on account
    login to amazon account
 
