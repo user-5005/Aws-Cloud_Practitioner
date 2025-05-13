@@ -23,3 +23,10 @@ Content
 - `Create an Amazon account <create an amazon account>`_
 - `Login to AWS Cloud Quest: Cloud Practitioner with Amazon account <login to amazon account>`_
 
+.. toctree::
+   :maxdepth: 2  
+   :titlesonly:
+   
+   create an amazon account
+   login to amazon account
+
