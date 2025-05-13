@@ -9,5 +9,5 @@ In this step we will register and familiarize yourself with the interface of **C
 Content
 -------
 
-- `Register and check the system <#>`_  <register_and_test_the_system>`
+- `Register and check the system <#>`_  <register_and_test_the_system.rst>`
 - `Build profile <#>`_
