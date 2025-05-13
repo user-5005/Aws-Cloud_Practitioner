@@ -2,7 +2,7 @@ Introduction
 ===================================
 AWS Cloud Quest: Cloud Practitioner is a brand new 3D role-playing game, designed by AWS Training and Certification, to give learners a real AWS experience.
 
-.. image:: static/aws_quest.png
+.. image:: pictures/clous quest.png
    :alt: Screenshot of AWS Cloud Quest
    :align: center
    :width: 600px
