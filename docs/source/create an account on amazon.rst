@@ -26,6 +26,3 @@ Steps to create an Amazon account
 6. Enter **Re-enter password**
 7. Next, select **Verify**
 
-.. image:: pictures/fill_up_info.png
-   :align: center
-   :width: 700px
