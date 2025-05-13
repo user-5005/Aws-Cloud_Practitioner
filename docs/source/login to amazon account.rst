@@ -10,5 +10,4 @@ There are 4 options for logging into **AWS Training and Certification**:
 
 
 .. note::
- 
    This lab uses the **Login with Amazon** login method.
