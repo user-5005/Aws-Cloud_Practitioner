@@ -24,8 +24,6 @@ Contents
 
    introduction
    preparation steps
-   create an amazon account
-   login to amazon account
    getting acquainted with aws cloud quest
    a1 - static web hosting
    a2 - launch an amazon EC2 instance
