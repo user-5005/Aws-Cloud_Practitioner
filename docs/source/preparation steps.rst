@@ -20,6 +20,5 @@ To participate in AWS Cloud Quest: Cloud Practitioner we need to prepare:
 Content
 ------
 
-- **Create an Amazon account**  
-  Go to [https://aws.amazon.com](https://aws.amazon.com) and sign up for a free account.
+- `Create an Amazon account https://aws.amazon.com`
 - Login to AWS Cloud Quest: Cloud Practitioner with Amazon account
