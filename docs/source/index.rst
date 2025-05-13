@@ -10,6 +10,10 @@ Author: Macabinguil Aiya, Alamis Rezza Mea and Minor Kim Brylle
 
    This project is under active development.
 
+.. image:: pictures/cloud_quest.png
+   :alt: Ito ay isang larawan ng proyekto ko
+   :width: 300px
+
 Contents
 --------
 
