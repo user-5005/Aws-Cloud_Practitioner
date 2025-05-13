@@ -3,7 +3,7 @@ Create an account on Amazon
 
 .. info::
 
-To log in, you must use an Amazon e-commerce account (if you don’t have one, you can create one by following these steps)
+   To log in, you must use an Amazon e-commerce account (if you don’t have one, you can create one by following these steps).
 
 Steps to create an Amazon account
 
