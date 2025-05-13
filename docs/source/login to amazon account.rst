@@ -1,7 +1,14 @@
 Login to Amazon account
 =============================
-hehe
+
+There are 4 options for logging into **AWS Training and Certification**:
+
+- Login with Amazon
+- AWS Partner
+- Organization SSO
+- Amazon Employee
 
 
-verview
--------------
+.. note::
+
+  This lab uses the **Login with Amazon** login method.
