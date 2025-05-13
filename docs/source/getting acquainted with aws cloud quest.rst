@@ -9,5 +9,9 @@ In this step we will register and familiarize yourself with the interface of **C
 Content
 -------
 
-- `Register and check the system <#> <register_and_test_the_system.rst>`_
-- `Build profile <#>`_
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   register_and_test_the_system
+   build_profile
