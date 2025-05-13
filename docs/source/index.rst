@@ -19,10 +19,11 @@ Contents
 
    introduction
    preparation steps
-   Getting acquainted with AWS Cloud Quest
-   A1 - Static web hosting
-   A3 - Connect to an EC2 Instance
-   Lab #3 of AWS Cloud Quest: Cloud Practitioner is Connect to an EC2 Instance
+   getting acquainted with aWS cloud quest
+   a1 - static web hosting
+   a2 - launch an amazon EC2 instance
+   a3 - connect to an EC2 instance
+   lab #3 of AWS Cloud Quest: Cloud Practitioner is Connect to an EC2 Instance
 
    
    
