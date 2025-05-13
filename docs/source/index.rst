@@ -19,7 +19,7 @@ Contents
 
    introduction
    preparation steps
-   getting acquainted with aWS cloud quest
+   getting acquainted with aws cloud quest
    a1 - static web hosting
    a2 - launch an amazon EC2 instance
    a3 - connect to an EC2 instance
