@@ -19,3 +19,12 @@ Learn
    :align: center
    :width: 700px
 
+3.In the **Learn** interface, select the right arrow to view step 2 of **Diagram Steps**.
+
+.. image:: pictures/vedio_concept.png
+   :align: center
+   :width: 700px
+
+
+
+
