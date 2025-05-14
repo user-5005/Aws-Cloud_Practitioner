@@ -15,5 +15,8 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
 
 2.Select **NEXT**
 
+.. image:: pictures/select_next.png
+   :align: center
+   :width: 700px
 
 
