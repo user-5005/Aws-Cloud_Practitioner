@@ -8,10 +8,20 @@ In this step we will take the first challenge in Cloud Quest.
 Content
 -------
 
-- `Learn <learn>`
+- Learn 
 - Plan
 - Practice
 - DIY
+
+
+----------
+
+.. toctree::
+   :maxdepth: 2  
+   :titlesonly:
+   
+    a1 - learn
+
 
 Perform
 ---------
