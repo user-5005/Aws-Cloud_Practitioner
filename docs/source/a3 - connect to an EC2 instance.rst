@@ -13,11 +13,13 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
    :align: center
    :width: 700px
 
+
 2.Select **NEXT**
 
 .. image:: pictures/select_next.png
    :align: center
    :width: 700px
+
 
 3.Read **Computing Solutions** and select **ACCEPT**.
 
@@ -25,11 +27,13 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
    :align: center
    :width: 700px
 
+
 4.Select GO TO **SOLUTION CENTER**.
 
 .. image:: pictures/solution_center.png
    :align: center
    :width: 700px
+
 
 5.Getting Started **Learn**
 
