@@ -7,5 +7,9 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
 
    After receiving the Assignment 2 award, continue to perform the following steps to perform Assignment 3.
 
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
 
 
