@@ -13,3 +13,5 @@ Learn
    :align: center
    :width: 700px
 
+2.Watch **VIDEO CONCEPTS**, then select **X**.
+
