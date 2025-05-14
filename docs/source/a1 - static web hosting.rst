@@ -8,7 +8,7 @@ In this step we will take the first challenge in Cloud Quest.
 Content
 -------
 
-- Learn
+- `Learn <learn>`
 - Plan
 - Practice
 - DIY
