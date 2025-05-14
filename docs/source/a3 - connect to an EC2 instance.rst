@@ -21,7 +21,7 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
 
 3.Read **Computing Solutions** and select **ACCEPT**.
 
-.. image:: pictures/Computing_ Solutions.png
+.. image:: pictures/Computing_Solutions.png
    :align: center
    :width: 700px
 
