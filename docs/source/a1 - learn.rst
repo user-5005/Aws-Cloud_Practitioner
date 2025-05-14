@@ -1,7 +1,7 @@
 Learn
 ========
 
-.. note::
+.. info::
 
     **Learn** helps players understand more about Amazon S3 theory.
 
