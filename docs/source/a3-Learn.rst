@@ -13,13 +13,13 @@ Learn
    :align: center
    :width: 700px
 
-2.Watch **VIDEO CONCEPTS**, then select **X**.
+2. Watch **VIDEO CONCEPTS**, then select **X**.
 
 .. image:: pictures/vedio_concept.png
    :align: center
    :width: 700px
 
-3.In the **Learn** interface, select the right arrow to view step 2 of **Diagram Steps**.
+3. In the **Learn** interface, select the right arrow to view step 2 of **Diagram Steps**.
 
 .. image:: pictures/diagram_step.png
    :align: center
