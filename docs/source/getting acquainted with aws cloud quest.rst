@@ -13,5 +13,5 @@ Content
    :maxdepth: 2
    :titlesonly:
 
-   register_and_test_the_system
+   register_and_check_the_system
    build_profile
