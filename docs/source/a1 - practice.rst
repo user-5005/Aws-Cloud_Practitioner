@@ -196,48 +196,57 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-In the interface Edit static website hosting
-Select Enable
-Select Host a static website
-In Index document, enter index.html
-Practice
+32. In the interface **Edit static website hosting**
 
-In the Practice interface
-Read step 18 of Cloud Computing Essentials
-Select the arrow to the right to see the next steps
-Practice
+- Select **Enable**
+- Select **Host a static website**
+- In **Index document**, enter
 
-In the Amazon S3 interface
-Select Save changes
-Practice
+.. raw:: html
 
-In the Practice interface
-Read step 19 of Cloud Computing Essentials
-Read CONCEPT
-Select the arrow to the right to see the next steps
-Practice
+   <span style="background-color:#fff4c2; padding:2px 4px; border-radius:4px; font-family:monospace;">
+     <span id="copy-text" style="user-select: all;">index.html</span>
+     <button onclick="navigator.clipboard.writeText(document.getElementById('copy-text').innerText)" style="border:none; background:none; cursor:pointer;">📋</button>
+   </span>
 
-In the Amazon S3 interface
-Select Permissions
-View Block all public access
-Select Edit
-Practice
+33. In the **Practice** interface
 
-In the Practice interface
-Read step 20 of Cloud Computing Essentials
-Read CONCEPT
-Select the arrow to the right to see the next steps
-Practice
+- Read step 18 of **Cloud Computing Essentials**
+- Select the arrow to the right to see the next steps
 
-In the Edit bucket policy interface
-Copy Bucket RNA
-Remove Policy
-Practice
+34. In the **Amazon S3** interface
 
-In the Practice interface
-Read step 21 of Cloud Computing Essentials
-Select the arrow to the right to see the next steps
-Practice
+- Select **Save changes**
+
+35. In the **Practice** interface
+
+- Read step 19 of **Cloud Computing Essentials**
+- Read **CONCEPT**
+- Select the arrow to the right to see the next steps
+
+36. In the **Amazon S3** interface
+
+- Select **Permissions**
+- View **Block all public access**
+- Select **Edit**
+
+37. In the **Practice** interface
+
+- Read step 20 of **Cloud Computing Essentials**
+- Read **CONCEPT**
+- Select the arrow to the right to see the next steps
+
+38. In the **Edit bucket policy** interface
+
+- Copy **Bucket RNA**
+- Remove **Policy**
+
+
+39. In the **Practice** interface
+
+- Read step 21 of **Cloud Computing Essentials**
+- Select the arrow to the right to see the next steps
+
 
 In the Edit bucket policy interface
 Open the file policy.text
