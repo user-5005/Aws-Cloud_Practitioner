@@ -9,9 +9,12 @@ learn helps players to understand more theory about
 Read step 1 of **Diagram Steps**
 Select **Amazon RDS Overview**
 
+
 .. image:: pictures/learn_next.png
    :align: center
    :width: 700px
+
+
 
 
 .. toctree::
