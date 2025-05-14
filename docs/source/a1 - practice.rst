@@ -61,10 +61,13 @@ Practice
 
 - **Bucket name**, enter 
 
-.. code-block:: text
-   :class: copyable
+.. raw:: html
 
-   lab-unique-name-1
+   <span style="background-color:#fff4c2; padding:2px 4px; border-radius:4px; font-family:monospace;">
+     <span id="copy-text" style="user-select: all;">lab-unique-name-1</span>
+     <button onclick="navigator.clipboard.writeText(document.getElementById('copy-text').innerText)" style="border:none; background:none; cursor:pointer;">📋</button>
+   </span>
+
 
 - **AWS Region**, enter **US East (N. Virginia) us-east-1**
 
