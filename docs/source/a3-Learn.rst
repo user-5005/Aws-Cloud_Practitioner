@@ -27,7 +27,7 @@ Learn
 
 4. Continue to select the right arrow to see step 3 of **Diagram Steps**.
 
-.. image:: pictures/diagram_step.png
+.. image:: pictures/step3_diagram.png
    :align: center
    :width: 700px
 
