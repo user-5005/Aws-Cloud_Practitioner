@@ -28,3 +28,15 @@ elect **X** to exit
    :width: 700px
 
 
+3.In the Learn interface
+Read step 2 of **Diagram Steps**
+Select **Amazon RDS - Lower Admin Burden Performance**
+
+
+.. image:: pictures/learn_interface.png
+   :align: center
+   :width: 700px
+
+
+
+
