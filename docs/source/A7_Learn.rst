@@ -16,3 +16,15 @@ Select **Amazon RDS Overview**
 
 
 
+2.In the **VIDEO CONCEPTS** interface
+
+Watch video **Amazon RDS Overview**
+elect **X** to exit
+
+
+
+.. image:: pictures/video_conceps.png
+   :align: center
+   :width: 700px
+
+
