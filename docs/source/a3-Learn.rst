@@ -25,6 +25,15 @@ Learn
    :align: center
    :width: 700px
 
+4. Continue to select the right arrow to see step 3 of **Diagram Steps**.
+
+.. image:: pictures/diagram_step.png
+   :align: center
+   :width: 700px
+
+
+
+
 
 
 
