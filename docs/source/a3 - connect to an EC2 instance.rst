@@ -27,4 +27,7 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
 
 Select GO TO **SOLUTION CENTER**.
 
+.. image:: pictures/solution_center.png
+   :align: center
+   :width: 700px
 
