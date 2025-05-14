@@ -15,3 +15,7 @@ Learn
 
 2.Watch **VIDEO CONCEPTS**, then select **X**.
 
+.. image:: pictures/vedio_concept.png
+   :align: center
+   :width: 700px
+
