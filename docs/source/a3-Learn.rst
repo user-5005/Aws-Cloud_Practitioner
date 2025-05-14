@@ -31,11 +31,13 @@ Learn
    :align: center
    :width: 700px
 
-5.Continue to select the right arrow to see step 4 of **Diagram Steps**.
+5. Continue to select the right arrow to see step 4 of **Diagram Steps**.
 
 .. image:: pictures/step4_diagram.png
    :align: center
    :width: 700px
+
+6. Continue to select the right arrow to see step 5 of **Diagram Steps**.
 
 
 
