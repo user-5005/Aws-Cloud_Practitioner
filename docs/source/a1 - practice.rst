@@ -247,64 +247,68 @@ Practice
 - Read step 21 of **Cloud Computing Essentials**
 - Select the arrow to the right to see the next steps
 
+40. In the **Edit bucket policy** interface
 
-In the Edit bucket policy interface
-Open the file policy.text
-Replace Bucket ARN into Resource
-Copy the contents of the file policy.txt
-Paste in Policy
-Practice
+- Open the file **policy.text**
+- Replace **Bucket ARN** into **Resource**
+- Copy the contents of the file **policy.txt**
+- Paste in **Policy**
 
-In the Practice interface
-Read step 22 of Cloud Computing Essentials
+41. In the **Practice** interface
+
+- Read step 22 of **Cloud Computing Essentials**
 Select the arrow to the right to see the next steps
-Practice
 
-In the Amazon S3 interface
-Copy the contents of the file policy.txt
-Practice
+42. In the **Amazon S3** interface
 
-In the Practice interface
-Read step 23 of Cloud Computing Essentials
-Select the arrow to the right to see the next steps
-Practice
+- Copy the contents of the file **policy.txt**
 
-In the Amazon S3 interface
-Select Save changes
-Practice
 
-In the Practice interface
-Read step 24 of Cloud Computing Essentials
-Read CONCEPT
-Select the arrow to the right to see the next steps
-Practice
+43. In the **Practice** interface
 
-​​In the Amazon S3 interface
-Select Properties
-Practice
+- Read step 23 of **Cloud Computing Essentials**
+- Select the arrow to the right to see the next steps
 
-In the Practice interface
-Read step 25 of Cloud Computing Essentials
-Select the arrow to the right to see the next steps
-Practice
 
-In the Amazon S interface
-See Hosting type
-Copy Bucket website endpoint
-Practice
+44. In the **Amazon S3** interface
 
-In the Practice interface
-Read step 26 of Cloud Computing Essentials
-Select the arrow to the right to see the next steps
-Practice
+- Select **Save changes**
 
-Open a browser
-Paste Bucket website endpoint into the browser
-Select Enter
-View results
-Practice
+45. In the **Practice** interface
 
-Congratulations to the player on completing the lab
+- Read step 24 of **Cloud Computing Essentials**
+- Read **CONCEPT**
+- Select the arrow to the right to see the next steps
+
+​​46. In the **Amazon S3** interface
+
+- Select **Properties**
+
+47. In the **Practice** interface
+
+- Read step 25 of **Cloud Computing Essentials**
+- Select the arrow to the right to see the next steps
+
+48. In the **Amazon S** interface
+
+- See **Hosting type**
+- Copy **Bucket website endpoint**
+
+
+49. In the **Practice** interface
+
+- Read step 26 of **Cloud Computing Essentials**
+- Select the arrow to the right to see the next steps
+
+
+50. Open a browser
+
+- Paste **Bucket website endpoint** into the browser
+- Select **Enter**
+- View results
+
+
+51. Congratulations to the player on completing the lab
 
 
 
