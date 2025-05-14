@@ -1,11 +1,11 @@
-Register and test the system
+Register and Test the System
 ===============================
 After logging in, the AWS Training and Certification interface appears with the courses.
 
 1. Find and select **AWS Cloud Quest: Cloud Practitioner**
 2. Continue, select **ENROLL**
 
-.. image:: pictures/aws_enroll.png
+.. image:: pictures/.png
    :align: center
    :width: 700px
 
