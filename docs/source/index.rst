@@ -29,6 +29,7 @@ Contents
    a2 - launch an amazon EC2 instance
    a3 - connect to an EC2 instance
    lab #3 
+   a7 - database
 
    
    
