@@ -1,4 +1,4 @@
-Register and Test the System
+Register and Check the System
 ===============================
 After logging in, the AWS Training and Certification interface appears with the courses.
 
