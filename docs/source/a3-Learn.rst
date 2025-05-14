@@ -31,6 +31,8 @@ Learn
    :align: center
    :width: 700px
 
+5.Continue to select the right arrow to see step 4 of **Diagram Steps**.
+
 
 
 
