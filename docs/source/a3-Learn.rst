@@ -1,4 +1,5 @@
-a3-Learn
+Learn
+=========
 
 .. info::
 
