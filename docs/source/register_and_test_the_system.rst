@@ -5,9 +5,7 @@ After logging in, the AWS Training and Certification interface appears with the 
 1. Find and select **AWS Cloud Quest: Cloud Practitioner**
 2. Continue, select **ENROLL**
 
-.. image:: pictures/aws_enroll.png
-   :align: center
-   :width: 700px
+
 
 3. After selecting ENROLL, select START **LEARNING NOW**
 
