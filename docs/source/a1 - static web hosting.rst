@@ -13,6 +13,9 @@ Content
    :titlesonly:
    
    a1 - learn
+   a1 - plan
+   a1 - practice
+   a1 - diy
 
 
 
