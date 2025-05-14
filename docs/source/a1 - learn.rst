@@ -3,7 +3,7 @@ Learn
 
 .. note::
 
-    Learn helps players understand more about Amazon S3 theory.
+    **Learn** helps players understand more about Amazon S3 theory.
 
 
 1. In the **Learn** interface
