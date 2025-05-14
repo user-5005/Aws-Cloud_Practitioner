@@ -39,6 +39,10 @@ Learn
 
 6. Continue to select the right arrow to see step 5 of **Diagram Steps**.
 
+.. image:: pictures/step5_diagram.png
+   :align: center
+   :width: 700px
+
 
 
 
