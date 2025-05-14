@@ -21,3 +21,16 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance.
 
 5. Select **GO TO SOLUTION CENTER** to move to the next steps of Assignment
 
+
+
+
+.. toctree::
+   :maxdepth: 2  
+   :titlesonly:
+   
+   a2 - learn
+   a2 - plan
+   a2 - practice
+   a2 - diy
+
+
