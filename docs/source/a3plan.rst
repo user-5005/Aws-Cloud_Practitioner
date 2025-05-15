@@ -13,6 +13,6 @@ Read **Practice Lab Goals**
 Read **DIY Goals**.
 Select **Practice** to conduct the lab.
 
-.. image:: pictures/a3_plan.png
+.. image:: pictures/A3_plan.png
    :align: center
    :width: 700px
