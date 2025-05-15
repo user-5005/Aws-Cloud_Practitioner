@@ -46,7 +46,7 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance.
 
 .. toctree::
    :maxdepth: 2  
-   :titlesonly: invisible
+   :titlesonly: 
    
    a2 - learn
    a2 - plan
