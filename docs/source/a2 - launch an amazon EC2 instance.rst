@@ -14,11 +14,13 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance.
    :align: center
    :width: 700px
 
+
 2. Select the icon as shown
 
 .. image:: pictures/0002_amazonec2.png
    :align: center
    :width: 700px
+
 
 3. After entering the **Cloud First Steps** interface, select **NEXT** to see more about **Amazon EC2**, **Availability Zone, AWS Region**
 
@@ -26,11 +28,13 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance.
    :align: center
    :width: 700px
 
+
 4. Select **ACCEPT**
 
 .. image:: pictures/0004_amazonec2.png
    :align: center
    :width: 700px
+
 
 5. Select **GO TO SOLUTION CENTER** to move to the next steps of Assignment
 
@@ -42,7 +46,7 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance.
 
 .. toctree::
    :maxdepth: 2  
-   :titlesonly:
+   :titlesonly: invisible
    
    a2 - learn
    a2 - plan
