@@ -10,12 +10,7 @@ _______________
 
 1. Select **Plan** to enter **Plan** interface.
 
--Read **Practice Lab Goals**
 
--Read **DIY Goals**.
-
--Select **Practice** to conduct the lab.
-
-.. image:: pictures/A3_plan.png
+.. image:: pictures/02_plan.png
    :align: center
    :width: 700px
