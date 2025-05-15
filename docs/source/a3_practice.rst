@@ -85,6 +85,80 @@ ________________
    :align: center
    :width: 700px
 
+8. In the **EC2** interface
+
+-Select the instance named **AWS Computing Solutions**
+
+-Select **Details**
+
+-View instance details
+
+
+.. image:: pictures/011-practice.png
+   :align: center
+   :width: 700px
+
+9.In the **Practice** interface
+
+-Read step 5 of **Computing Solutions**
+
+-Read **CONCEPT**
+
+-Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/012-practice.png
+   :align: center
+   :width: 700px
+
+10. In the **EC2** interface
+
+-Select **Instance Types**
+
+
+.. image:: pictures/013-practice.png
+   :align: center
+   :width: 700px
+
+11. In the **Practice** interface
+
+-Read step 6 of **Computing Solutions**
+
+-Read **CONCEPT**
+
+- the arrow to the right to see the next steps
+
+
+.. image:: pictures/014-practice.png
+   :align: center
+   :width: 700px
+
+12. In the **EC2** interface
+
+-Select **Instance Types**
+
+-In turn choose:
+   -t3.large
+   -c5.large
+   -r5.large
+
+
+.. image:: pictures/015-practice.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
