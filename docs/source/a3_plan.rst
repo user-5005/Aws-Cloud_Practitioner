@@ -5,9 +5,10 @@ _______________
 
 .. info::
 
-  To switch to Plan, players take the following steps after Learn.
+ To switch to Plan, players take the following steps after Learn.
 
-1. In the **Plan** interface.
+
+1. Select **Plan** to enter **Plan** interface.
 
 -Read **Practice Lab Goals**
 
