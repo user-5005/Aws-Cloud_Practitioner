@@ -14,3 +14,13 @@ _______________
 .. image:: pictures/02-plan.png
    :align: center
    :width: 700px
+
+2. In the **Plan** interface
+
+-Read **Practice Lab Goals**
+-Read **DIY Goals**
+-Prepare for **Practice** step
+
+.. image:: pictures/02-plan.png
+   :align: center
+   :width: 700px
