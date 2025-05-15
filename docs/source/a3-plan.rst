@@ -11,6 +11,6 @@ _______________
 1. Select **Plan** to enter **Plan** interface.
 
 
-.. image:: pictures/02_plan.png
+.. image:: pictures/02-plan.png
    :align: center
    :width: 700px
