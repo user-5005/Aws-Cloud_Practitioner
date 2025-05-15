@@ -10,7 +10,7 @@ Learn
 
 .. image:: pictures/0001_a2learn.png
    :align: center
-   :width: 700px
+   :width: 300px
 
 
 2. Watch **VIDEO CONCEPTS**, then select **X**
