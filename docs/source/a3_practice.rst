@@ -8,7 +8,7 @@ ________________
 
 1. Select **Practice** to perform the lab
 
-.. image:: pictures/04-plan.png
+.. image:: pictures/04-practice.png
    :align: center
    :width: 700px
 
