@@ -57,49 +57,59 @@ DIY
 - Security group name, enter 
 .. raw:: html
 
-   <span style="background-color:#fff4c2; font-family:monospace;">
+   <span style="background-color:#fff4c2;  padding:2px 4px; border-radius:4px; font-family:monospace;">
      <span id="copy-text" style="user-select: all;">Security-Group-Lab-2</span>
      <button onclick="navigator.clipboard.writeText(document.getElementById('copy-text').innerText)" style="border:none; background:none; cursor:pointer;">📋</button>
    </span>
-Description, enter HTTP Group Lab 2
-Rule, select HTTP
-Select Review and Launch
-DIY
 
-In Review Instance Launch, double check and select Launch
-DIY
+- Description, enter 
+.. raw:: html
 
-In Select an existing key pair or create a new key pair
-Select Proceed without a key pair
-Select I acknowledge…
-Select Launch Instances
-DIY
+   <span style="background-color:#fff4c2;  padding:2px 4px; border-radius:4px; font-family:monospace;">
+     <span id="copy-text" style="user-select: all;">HTTP Group Lab 2
+Rule</span>
+     <button onclick="navigator.clipboard.writeText(document.getElementById('copy-text').innerText)" style="border:none; background:none; cursor:pointer;">📋</button>
+   </span>
+- Rule, select **HTTP**
+- Select **Review and Launch**
 
-Select View Instances
-DIY
 
-Result of creating 2 Amazon EC2 Instance
-DIY
+12. In **Review Instance Launch**, double check and select **Launch**
 
-After creating 2 Amazon EC2 Instance, copy both Instance ID
-Paste in Instance ID in AZ1
-Paste in Instance ID in AZ2
-Select VALIDATE
-DIY
 
-After selecting VALIDATE, if VALIDATION MESSAGE contains Success! … is complete
-DIY
+13. In **Select an existing key pair or create a new key pair**
 
-Select EXIT
-DIY
+- Select **Proceed without a key pair**
+- Select **I acknowledge…**
+- Select **Launch Instances**
 
-In ASSIGNMENT select COLLECT
-DIY
 
-Select NEXT
-DIY
+14. Select **View Instances**
 
-Select COLLECT
-DIY
 
-Get rewarded
+15. Result of creating 2 **Amazon EC2 Instance**
+
+
+16. After creating 2 **Amazon EC2 Instance**, copy both **Instance ID**
+
+- Paste in **Instance ID in AZ1**
+- Paste in **Instance ID in AZ2**
+- Select **VALIDATE**
+
+
+17. After selecting **VALIDATE**, if **VALIDATION MESSAGE** contains **Success!** … is complete
+
+
+18. Select **EXIT**
+
+
+19. In **ASSIGNMENT** select **COLLECT**
+
+
+20. Select **NEXT**
+
+
+21. Select **COLLECT**
+
+
+22. Get rewarded
