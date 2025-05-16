@@ -1,7 +1,9 @@
 Preparation Steps
 ===================================
 
-.. rubric:: Overview
+.. raw:: html
+
+   <h2 class="my-header">Overview</h2>
 
 To participate in AWS Cloud Quest: Cloud Practitioner we need to prepare:
 
