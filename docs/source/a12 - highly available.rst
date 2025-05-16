@@ -1,8 +1,9 @@
 A12 - Highly Available
 =====================
 
-Overview
-----------------
+.. raw:: html
+
+   <h2 class="my-header">Overview</h2>
 
 Lab number 12 of **AWS Cloud Quest: Cloud Practitioner** is **Implementing Highly Available Web Applicaionts**.
 
