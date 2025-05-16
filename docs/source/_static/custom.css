@@ -9,7 +9,8 @@
 }
 
 
-/* Hide numbered list in homepage only */
-body[data-page-name="index"] .toctree-l1 > a::before {
-  content: none !important;
+/* Remove bullets from the contents list in homepage */
+body[data-page-name="index"] ul.simple {
+    list-style: none;
+    padding-left: 0;
 }
