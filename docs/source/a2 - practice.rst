@@ -1,4 +1,4 @@
-5.3 Practice
+Practice
 =========
   
 .. info::
