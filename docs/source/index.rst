@@ -14,6 +14,8 @@ Author: Macabinguil Aiya, Alamis Rezza Mea and Minor Kim Brylle
    :align: center
    :width: 700px
 
+
+
 Contents
 --------
 
@@ -30,7 +32,7 @@ Contents
    a2 - launch an amazon EC2 instance
    a3 - connect to an EC2 instance
    a4 - internet access for vpc resources
-   a5 -aws pricing calculator
+   a5 - aws pricing calculator
    a6 - connecting amazon vpcs
    a7 - database
    a8 - security
