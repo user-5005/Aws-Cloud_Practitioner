@@ -1,5 +1,10 @@
-.wy-nav-side a:hover {
-  cursor: url('https://cdn-icons-png.flaticon.com/512/159/159604.png'), pointer;
+.wy-menu-vertical a:hover {
   color: #1a73e8;
   text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Optional: smooth transition */
+.wy-menu-vertical a {
+  transition: color 0.3s ease;
 }
