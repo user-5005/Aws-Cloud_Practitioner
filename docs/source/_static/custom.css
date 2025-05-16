@@ -7,3 +7,9 @@
     text-decoration: underline;
     font-weight: bold;
 }
+
+
+/* Hide numbered list in homepage only */
+body[data-page-name="index"] .toctree-l1 > a::before {
+  content: none !important;
+}
