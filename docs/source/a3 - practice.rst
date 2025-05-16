@@ -1,6 +1,5 @@
 PRACTICE
-
-________________
+===========
 
 .. info::
 
@@ -16,13 +15,13 @@ ________________
 2. In the **Practice** interface.
 
 
--Read step 1 of **Computing Solutions**
+- Read step 1 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select **START LAB**
+- Select **START LAB**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 .. image:: pictures/05-practice.png
@@ -31,13 +30,13 @@ ________________
 
 3. In the **Practice** interface
 
--Read step 2 of **Computing Solutions**
+- Read step 2 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select **Open AWS Console**
+- Select **Open AWS Console**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 .. image:: pictures/06-practice.png
    :align: center
@@ -47,9 +46,9 @@ ________________
 4. In the **AWS Console interface**
 
 
--Find **EC2**
+- Find **EC2**
 
--Select **EC2**
+- Select **EC2**
 
 
 .. image:: pictures/07-practice.png
@@ -60,11 +59,11 @@ ________________
 5. In the **Practice** interface
 
 
--Read step 3 of **Computing Solutions**
+- Read step 3 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 .. image:: pictures/08-practice.png
    :align: center
@@ -82,11 +81,11 @@ ________________
 7. In the **Practice** interface
 
 
--Read step 4 of **Computing Solutions**
+- Read step 4 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 .. image:: pictures/10-practice.png
@@ -97,11 +96,11 @@ ________________
 8. In the **EC2** interface
 
 
--Select the instance named **AWS Computing Solutions**
+- Select the instance named **AWS Computing Solutions**
 
--Select **Details**
+- Select **Details**
 
--View instance details
+- View instance details
 
 
 .. image:: pictures/011-practice.png
@@ -112,11 +111,11 @@ ________________
 9.In the **Practice** interface
 
 
--Read step 5 of **Computing Solutions**
+- Read step 5 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 .. image:: pictures/012-practice.png
@@ -127,7 +126,7 @@ ________________
 10. In the **EC2** interface
 
 
--Select **Instance Types**
+- Select **Instance Types**
 
 
 .. image:: pictures/013-practice.png
@@ -138,11 +137,11 @@ ________________
 11. In the **Practice** interface
 
 
--Read step 6 of **Computing Solutions**
+- Read step 6 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
-- the arrow to the right to see the next steps
+- The arrow to the right to see the next steps
 
 
 .. image:: pictures/014-practice.png
@@ -153,12 +152,12 @@ ________________
 12. In the **EC2** interface
 
 
--Select **Instance Types**
+- Select **Instance Types**
 
--In turn choose:
-   -t3.large
-   -c5.large
-   -r5.large
+- In turn choose:
+   - t3.large
+   - c5.large
+   - r5.large
 
 
 .. image:: pictures/015-practice.png
@@ -169,11 +168,11 @@ ________________
 13. In the **Practice** interface
 
 
--Read step 7 of **Computing Solutions**
+- Read step 7 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
-=lect the arrow to the right to see the next steps
+- select the arrow to the right to see the next steps
 
 
 .. image:: pictures/016-practice.png
@@ -184,11 +183,11 @@ ________________
 14. In the **Practice** interface
 
 
--Read step 8 of **Computing Solutions**
+- Read step 8 of **Computing Solutions**
 
--Read **CONCEPT**
+- Read **CONCEPT**
 
--Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 .. image:: pictures/017-practice.png
