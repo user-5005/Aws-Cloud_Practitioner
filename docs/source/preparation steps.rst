@@ -18,7 +18,10 @@ To participate in AWS Cloud Quest: Cloud Practitioner we need to prepare:
 - Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or 2.0, WASM)
 - Mobile browsers are not supported.
 
-.. rubric:: Content
+
+.. raw:: html
+
+   <h2 class="my-header">Content</h2>
 
 
 .. toctree::
