@@ -1,10 +1,9 @@
-.wy-menu-vertical a:hover {
-  color: #1a73e8;
-  text-decoration: underline;
-  cursor: pointer;
+.wy-nav-content .toctree-l1 > a {
+    transition: color 0.3s ease, text-decoration 0.3s ease;
 }
 
-/* Optional: smooth transition */
-.wy-menu-vertical a {
-  transition: color 0.3s ease;
+.wy-nav-content .toctree-l1 > a:hover {
+    color: #1e90ff;
+    text-decoration: underline;
+    font-weight: bold;
 }
