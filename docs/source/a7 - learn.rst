@@ -1,8 +1,7 @@
-A7_Learn
+Learn
 ======
 
-
-learn helps players to understand more theory about
+**Learn** helps players to understand more theory about
 
 
 1.In the **Learn** interface
