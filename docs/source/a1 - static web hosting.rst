@@ -1,12 +1,17 @@
 A1 - Static web hosting
 ==========================
 
-Overview
-----------
+.. raw:: html
+
+   <h2 class="my-header">Overview</h2>
+
+
 In this step we will take the first challenge in Cloud Quest.
 
-Content
-----------
+
+.. raw:: html
+
+   <h2 class="my-header">Content</h2>
 
 .. toctree::
    :maxdepth: 2  
