@@ -24,9 +24,10 @@ In this step we will take the first challenge in Cloud Quest.
 
 
 
+.. raw:: html
 
-Perform
----------
+   <h2 class="my-header">Perform</h2>
+
 
 1. In the city interface
 
