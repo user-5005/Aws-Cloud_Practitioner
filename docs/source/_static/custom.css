@@ -1,0 +1,5 @@
+.wy-nav-side a:hover {
+  cursor: url('https://cdn-icons-png.flaticon.com/512/159/159604.png'), pointer;
+  color: #1a73e8;
+  text-decoration: underline;
+}
