@@ -42,4 +42,13 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner** is **Connect to an EC2 Instanc
    :width: 700px
 
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   a3 - learn
+   a3 - plan
+   a3 - practice
+   a3 - diy
+
 
