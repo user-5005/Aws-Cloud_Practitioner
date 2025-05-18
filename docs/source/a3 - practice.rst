@@ -203,7 +203,7 @@ Practice
 - In **Details**, copy **Public IPv4 address**
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00015-practice.png
    :align: center
    :width: 700px
 
@@ -218,7 +218,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00016-practice.png
    :align: center
    :width: 700px
 
@@ -231,7 +231,7 @@ Practice
 - Then get the detailed result about the instance
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00017-practice.png
    :align: center
    :width: 700px
 
@@ -246,7 +246,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00018-practice.png
    :align: center
    :width: 700px
 
@@ -257,7 +257,7 @@ Practice
 - Select **Connect**
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00019-practice.png
    :align: center
    :width: 700px
 
@@ -272,7 +272,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00020-practice.png
    :align: center
    :width: 700px
 
@@ -285,7 +285,7 @@ Practice
 - Select **Session Manager**
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00021-practice.png
    :align: center
    :width: 700px
 
@@ -300,7 +300,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00022-practice.png
    :align: center
    :width: 700px
 
@@ -312,7 +312,7 @@ Practice
 
 - Select **SSH client**
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00023-practice.png
    :align: center
    :width: 700px
 
@@ -327,7 +327,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00024-practice.png
    :align: center
    :width: 700px
 
