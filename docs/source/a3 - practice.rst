@@ -378,6 +378,219 @@ Practice
    :width: 700px
 
 
+28. In the **Practice** interface
+
+
+- Read step 15 of **Computing Solutions**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+29. In **Command Prompt**
+
+
+- Enter cd sample_app
+
+- Enter ls
+
+- Type tail - lf aws_copute_solutions.log
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+30. In the **Practice interface**
+
+
+- Read step 16 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+31. In the **EC2** interface
+
+
+- Select **ACtions**
+
+- Select **Instance settings**
+
+- Select **Edit user data**
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+32. In the **Practice** interface
+
+
+- Read step 17 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+33. In the **EC2 interface**
+
+
+- View information about **User data currently associated with this instance**
+
+- Select **Cancel**
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+34. In the **Practice** interface
+
+
+- Read step 18 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+-Select the right arrow to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+
+35. Return to **Amazon EC2 instances** interface
+
+
+- Select **Instances**
+
+- Select **Instance state**
+
+- Select **Stop instance**
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+36. In the **Practice** interface
+
+
+- Read step 19 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+37. In the **EC2** interface
+
+
+- Select **Stop**
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+38, In the **Practice** interface
+
+
+- Read step 20 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+39. In the **EC2** interface
+
+
+- See **Instance state** show **Stopped**
+
+- Select **Instance state**
+
+- Select **Start instance**
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+40. In the **Practice** interface
+
+
+- Read step 21 of **Computing Solutions**
+
+- Select the arrow to the right to see the next step
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+41. In the **EC2** interface
+
+- View instance details
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+
+42. Completing the Lab
+
+
+.. image:: pictures/00028-practice-1.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
 
 
 
