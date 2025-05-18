@@ -32,7 +32,7 @@ LEARN
 3. In the **Learn** interface
 
 
--Step 2 of **Diagram Steps**, select **Amazon VPC Overview**
+- Step 2 of **Diagram Steps**, select **Amazon VPC Overview**
 
 
 .. image:: pictures/0003a4-learn.png
