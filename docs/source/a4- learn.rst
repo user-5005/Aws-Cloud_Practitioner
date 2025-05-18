@@ -16,7 +16,7 @@ LEARN
 - Select **AWS Global Infrastructure Overview**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001a4-learn.png
    :align: center
    :width: 700px
 
@@ -24,7 +24,7 @@ LEARN
 2. After watching **VIDEO CONCEPT**, select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002a4-learn.png
    :align: center
    :width: 700px
 
@@ -35,7 +35,7 @@ LEARN
 -Step 2 of **Diagram Steps**, select **Amazon VPC Overview**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003a4-learn.png
    :align: center
    :width: 700px
 
@@ -48,7 +48,7 @@ LEARN
 - Select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0004a4-learn.png
    :align: center
    :width: 700px
 
@@ -61,7 +61,7 @@ LEARN
 - Select **Amazon VPC Concepts**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0005a4-learn.png
    :align: center
    :width: 700px
 
@@ -72,7 +72,7 @@ LEARN
 - After watching, select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0006a4-learn.png
    :align: center
    :width: 700px
 
@@ -85,7 +85,7 @@ LEARN
 - Select **Amazon VPC Security**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0007a4-learn.png
    :align: center
    :width: 700px
 
@@ -96,7 +96,7 @@ LEARN
 - After watching. select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0008a4-learn.png
    :align: center
    :width: 700px
 
@@ -109,7 +109,7 @@ LEARN
 - Select **Amazon VPC - Internet Connectivity**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0009a4-learn.png
    :align: center
    :width: 700px
 
@@ -120,7 +120,7 @@ LEARN
 - After watching, select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00010a4-learn.png
    :align: center
    :width: 700px
 
@@ -133,7 +133,7 @@ LEARN
 - Select **Amaozn VPC Security**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00011a4-learn.png
    :align: center
    :width: 700px
 
@@ -143,7 +143,7 @@ LEARN
 - After watching, select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00012a4-learn.png
    :align: center
    :width: 700px
 
@@ -156,7 +156,7 @@ LEARN
 - Select **Amazon VPC - Internet Connectivity**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00013a4-learn.png
    :align: center
    :width: 700px
 
@@ -167,7 +167,7 @@ LEARN
 - After watching, select **X** to exit
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00014a4-learn.png
    :align: center
    :width: 700px
 
