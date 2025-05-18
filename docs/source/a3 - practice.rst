@@ -386,7 +386,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00029-practice.png
    :align: center
    :width: 700px
 
@@ -401,7 +401,7 @@ Practice
 - Type tail - lf aws_copute_solutions.log
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00030-practice.png
    :align: center
    :width: 700px
 
@@ -416,7 +416,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00031-practice.png
    :align: center
    :width: 700px
 
@@ -431,7 +431,7 @@ Practice
 - Select **Edit user data**
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00032-practice.png
    :align: center
    :width: 700px
 
@@ -446,7 +446,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00033-practice.png
    :align: center
    :width: 700px
 
@@ -459,7 +459,7 @@ Practice
 - Select **Cancel**
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00034-practice.png
    :align: center
    :width: 700px
 
@@ -474,7 +474,7 @@ Practice
 -Select the right arrow to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00035-practice.png
    :align: center
    :width: 700px
 
@@ -490,7 +490,7 @@ Practice
 - Select **Stop instance**
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00036-practice.png
    :align: center
    :width: 700px
 
@@ -505,7 +505,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00037-practice.png
    :align: center
    :width: 700px
 
@@ -516,7 +516,7 @@ Practice
 - Select **Stop**
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00038-practice.png
    :align: center
    :width: 700px
 
@@ -531,7 +531,7 @@ Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00039-practice.png
    :align: center
    :width: 700px
 
@@ -546,7 +546,7 @@ Practice
 - Select **Start instance**
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00040-practice.png
    :align: center
    :width: 700px
 
@@ -559,7 +559,7 @@ Practice
 - Select the arrow to the right to see the next step
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00041-practice.png
    :align: center
    :width: 700px
 
@@ -569,7 +569,7 @@ Practice
 - View instance details
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00042-practice.png
    :align: center
    :width: 700px
 
@@ -578,7 +578,7 @@ Practice
 42. Completing the Lab
 
 
-.. image:: pictures/00028-practice-1.png
+.. image:: pictures/00043-practice.png
    :align: center
    :width: 700px
 
