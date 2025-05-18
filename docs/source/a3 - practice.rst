@@ -340,7 +340,7 @@ Practice
 - Select **EC2 Instance Connect**
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00025-practice.png
    :align: center
    :width: 700px
 
@@ -355,7 +355,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/.. image:: pictures/00026-practice.png
    :align: center
    :width: 700px
 
@@ -365,7 +365,7 @@ Practice
 
 - Select **Connect**
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00027-practice.png
    :align: center
    :width: 700px
 
@@ -373,7 +373,7 @@ Practice
 - After **Connect**
 
 
-.. image:: pictures/017-practice.png
+.. image:: pictures/00028-practice.png
    :align: center
    :width: 700px
 
