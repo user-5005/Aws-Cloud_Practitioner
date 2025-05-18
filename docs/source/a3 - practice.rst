@@ -373,7 +373,7 @@ Practice
 - After **Connect**
 
 
-.. image:: pictures/00028-practice.png
+.. image:: pictures/00028-practice-1.png
    :align: center
    :width: 700px
 
