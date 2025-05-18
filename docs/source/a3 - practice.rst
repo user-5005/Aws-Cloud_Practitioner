@@ -195,6 +195,185 @@ Practice
    :width: 700px
 
 
+15. In the **EC2** interface
+
+
+- Select **AWS Computing Solutions** instance
+
+- In **Details**, copy **Public IPv4 address**
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+16. In the **Practice interface**
+
+
+- Read step 9 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+17. Open the browser
+
+
+- Paste **Public IPv4 address**
+
+- Then get the detailed result about the instance
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+18. In the **Practice interface**
+
+
+- Read step 10 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+19. In the **EC2** interface
+
+
+- Select **Connect**
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+20. In the **Practice** interface
+
+
+- Read step 11 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+21. In the **EC2** interface
+
+
+- View **Public IP address**
+
+- Select **Session Manager**
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+22. In the **Practice** interface
+
+
+- Read step 12 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+23. In the **EC2** interface
+
+
+- View **Session Manager usage**
+
+- Select **SSH client**
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+24. In the **Practice** interface
+
+
+- Read step 13 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+25. In the **EC2** interface
+
+
+- View information and connect steps
+
+- Select **EC2 Instance Connect**
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+26. In the **Practice** interface
+
+
+- Read step 14 of **Computing Solutions**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+27. In the **EC2 interface**
+
+
+- Select **Connect**
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
 
 
 
