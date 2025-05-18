@@ -370,6 +370,15 @@ Practice
    :width: 700px
 
 
+- After **Connect**
+
+
+.. image:: pictures/017-practice.png
+   :align: center
+   :width: 700px
+
+
+
 
 
 
