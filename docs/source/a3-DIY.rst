@@ -11,7 +11,7 @@ DIY
 1. Select **DIY**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001a3-diy.png
    :align: center
    :width: 700px
 
@@ -24,7 +24,7 @@ DIY
 - Read **SOLUTION VALIDATION METHOD**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002a3-diy.png
    :align: center
    :width: 700px
 
@@ -35,7 +35,7 @@ DIY
 - Go to the AWS Console page, find and select **EC2**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003a3-diy.png
    :align: center
    :width: 700px
 
@@ -48,7 +48,7 @@ DIY
 - Select **Launch instances**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0004a3-diy.png
    :align: center
    :width: 700px
 
@@ -61,7 +61,7 @@ DIY
 - Select **Select**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0005a3-diy.png
    :align: center
    :width: 700px
 
@@ -74,7 +74,7 @@ DIY
 - Then, select Next: **Configure Instance Details**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0006a3-diy.png
    :align: center
    :width: 700px
 
@@ -88,7 +88,7 @@ DIY
 - Select **Next: Add Storage**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0007a3-diy.png
    :align: center
    :width: 700px
 
@@ -96,7 +96,7 @@ DIY
 7. In **Add Storage**, select **Next: Add Tags**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0008a3-diy.png
    :align: center
    :width: 700px
 
@@ -104,7 +104,7 @@ DIY
 8. In **Add Tags**, Select **Next: Configure Security Group**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0009a3-diy.png
    :align: center
    :width: 700px
 
@@ -119,7 +119,7 @@ DIY
 - Select **Review and Launch**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00010a3-diy.png
    :align: center
    :width: 700px
 
@@ -130,7 +130,7 @@ DIY
 - Check again and select **Launch**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00011a3-diy.png
    :align: center
    :width: 700px
 
@@ -145,7 +145,7 @@ DIY
 - Select **Launch Instances**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00012a3-diy.png
    :align: center
    :width: 700px
 
@@ -153,7 +153,7 @@ DIY
 12. Select **View Instances**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00013a3-diy.png
    :align: center
    :width: 700px
 
@@ -161,7 +161,7 @@ DIY
 13. Copy Instance **ID**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00014a3-diy.png
    :align: center
    :width: 700px
 
@@ -174,7 +174,7 @@ DIY
 - Then select **VALIDATE**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00015a3-diy.png
    :align: center
    :width: 700px
 
@@ -187,7 +187,7 @@ DIY
 - Then select **EXIT**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00016a3-diy.png
    :align: center
    :width: 700px
 
@@ -195,7 +195,7 @@ DIY
 16. In **ASSIGNMENT** select **COLLECT**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00017a3-diy.png
    :align: center
    :width: 700px
 
@@ -203,7 +203,7 @@ DIY
 17. Select **NEXT**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00018a3-diy.png
    :align: center
    :width: 700px
 
@@ -211,7 +211,7 @@ DIY
 18. Select **COLLECT**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00019a3-diy.png
    :align: center
    :width: 700px
 
@@ -219,7 +219,7 @@ DIY
 19. Congratulations on completing Assignment 3
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00020a3-diy.png
    :align: center
    :width: 700px
 
