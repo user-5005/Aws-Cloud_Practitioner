@@ -350,6 +350,38 @@ PRACTICE
    :width: 700px
 
 
+25. In the **Practice** interface
+
+
+- Read step 13 of **Networking Concepts**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+26. In the **EC2** interface
+
+
+- Select **Web Server** instance
+
+- Select **Security**
+
+- Select **Security group**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+27. 
+
+
+
 
 
 
