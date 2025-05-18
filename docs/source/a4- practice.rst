@@ -13,7 +13,7 @@ PRACTICE
 1. Select **Practice** to perform the lab
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001a4-practice.png
    :align: center
    :width: 700px
 
@@ -30,7 +30,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002a4-practice.png
    :align: center
    :width: 700px
 
@@ -47,7 +47,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003a4-practice.png
    :align: center
    :width: 700px
 
@@ -58,6 +58,11 @@ PRACTICE
 - Find and select **EC2**
 
 
+.. image:: pictures/0004a4-practice.png
+   :align: center
+   :width: 700px
+
+
 5. In the **Learn** interface
 
 
@@ -65,7 +70,7 @@ PRACTICE
 
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0005a4-practice.png
    :align: center
    :width: 700px
 
@@ -76,7 +81,7 @@ PRACTICE
 - Select **Instances**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0006a4-practice.png
    :align: center
    :width: 700px
 
@@ -89,7 +94,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0007a4-practice.png
    :align: center
    :width: 700px
 
@@ -101,7 +106,7 @@ PRACTICE
 - Copy **Public IPv4 address**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0008a4-practice.png
    :align: center
    :width: 700px
 
@@ -114,7 +119,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0009a4-practice.png
    :align: center
    :width: 700px
 
@@ -127,7 +132,7 @@ PRACTICE
 - View returned results
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00010a4-practice.png
    :align: center
    :width: 700px
 
@@ -142,7 +147,7 @@ PRACTICE
 - Select the arrow to the right to see the next step
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00011a4-practice.png
    :align: center
    :width: 700px
 
@@ -157,7 +162,7 @@ PRACTICE
 - In **Networking details**, see details **Public IPv4 address** and **Private IPv4 addressses**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00012a4-practice.png
    :align: center
    :width: 700px
 
@@ -172,7 +177,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00013a4-practice.png
    :align: center
    :width: 700px
 
@@ -187,7 +192,7 @@ PRACTICE
 - Select **Subnet ID**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00014a4-practice.png
    :align: center
    :width: 700px
 
@@ -202,7 +207,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00015a4-practice.png
    :align: center
    :width: 700px
 
@@ -217,7 +222,7 @@ PRACTICE
 - Choose the name **Route table**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00016a4-practice.png
    :align: center
    :width: 700px
 
@@ -232,7 +237,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00017a4-practice.png
    :align: center
    :width: 700px
 
@@ -249,7 +254,7 @@ PRACTICE
 - Select **Edit routes**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00018a4-practice.png
    :align: center
    :width: 700px
 
@@ -264,7 +269,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00019a4-practice.png
    :align: center
    :width: 700px
 
@@ -277,7 +282,7 @@ PRACTICE
 - Select **Remove**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00020a4-practice.png
    :align: center
    :width: 700px
 
@@ -291,7 +296,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00021a4-practice.png
    :align: center
    :width: 700px
 
@@ -311,7 +316,7 @@ PRACTICE
 - Select **Save changes**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00022a4-practice.png
    :align: center
    :width: 700px
 
@@ -326,7 +331,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00023a4-practice.png
    :align: center
    :width: 700px
 
@@ -340,7 +345,7 @@ PRACTICE
 - Select **Services**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00024a4-practice.png
    :align: center
    :width: 700px
 
