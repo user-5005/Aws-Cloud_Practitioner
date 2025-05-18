@@ -355,7 +355,7 @@ Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/.. image:: pictures/00026-practice.png
+.. image:: pictures/00026-practice.png
    :align: center
    :width: 700px
 
