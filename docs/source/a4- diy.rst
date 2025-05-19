@@ -121,7 +121,7 @@ Select **DIY**
 - Select **EXIT** to exit
 
 
-.. image:: pictures/00010a4-diy.png
+.. image:: pictures/00011a4-diy.png
    :align: center
    :width: 700px
 
@@ -129,7 +129,7 @@ Select **DIY**
 11. Select **NEXT**
 
 
-.. image:: pictures/00011a4-diy.png
+.. image:: pictures/00012a4-diy.png
    :align: center
    :width: 700px
 
