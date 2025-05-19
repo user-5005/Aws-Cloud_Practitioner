@@ -5,7 +5,6 @@ A8 - Security
 
    <h2 class="my-header">Overview</h2>
 
------------
 
 
 **AWS Cloud Quest: Cloud Practitioner’**s 8th lab is **Defining Usr and Group Permissions using IAM Policies**
