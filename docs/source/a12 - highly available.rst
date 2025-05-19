@@ -39,3 +39,14 @@ Lab number 12 of **AWS Cloud Quest: Cloud Practitioner** is **Implementing Highl
 .. image:: pictures/0004_highlyavailable.png
    :align: center
    :width: 700px
+
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   a12 - learn
+   a12 - plan
+   a12 - practice
+   a12 - diy
