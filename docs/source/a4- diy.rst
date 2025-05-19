@@ -137,7 +137,7 @@ Select **DIY**
 12. Select **COLLECT**
 
 
-.. image:: pictures/00012a4-diy.png
+.. image:: pictures/00013a4-diy.png
    :align: center
    :width: 700px
 
