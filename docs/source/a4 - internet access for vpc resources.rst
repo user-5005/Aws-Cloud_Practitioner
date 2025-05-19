@@ -17,7 +17,7 @@ Lab #4 of **AWS Cloud Quest: Cloud Practitioner** is **Internet Access for VPC R
    :maxdepth: 2
    :titlesonly:
 
-   a4 - learn
+   a4- learn
    a4 - plan
    a4 - practice
    a4 - diy
