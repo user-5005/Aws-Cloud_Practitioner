@@ -1,5 +1,4 @@
-LEARN
-
+Learn
 ===========
 
 .. info::
