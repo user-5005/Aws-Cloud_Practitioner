@@ -378,7 +378,181 @@ PRACTICE
    :width: 700px
 
 
-27. 
+27. In the **Practice** interface
+
+
+- Read step 14 of **Networking Concepts**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+28, In the **Security Groups** interface
+
+
+- Select **Edit inbound rules**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+29, In the **Practice** interface
+
+
+
+- Read step 15 of **Networking Concepts**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+30. In the **Edit inbound rules interface
+
+
+- Select **Add rule**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+31. In the **Practice interface**
+
+
+- Read step 15 of **Networking Concepts**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+32. In the **Edit inbound rules interface**
+
+
+- **Type**, select **HTTP**
+
+- **Source**, select **Anywhere-IPv4**
+
+- Select **Save rules**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+33. In the **Practice** interface
+
+
+- Read step 16 of **Networking Concepts**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+34. In the **EC2** interface
+
+
+- Select **Instances**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+35. In the **Practice** interface
+
+
+- Read step 18 of **Networking Concepts**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+36. In the **EC2** interface
+
+
+- Select **Web Server** instance
+
+- Select **Networking**
+
+- Select and copy **Public IPv4 address**
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+37. In the **Practice interface**
+
+
+- Read step 19 of **Networking Concepts**
+
+- Read **CONCEPT**
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+38. Open a browser
+
+
+- Paste **Public Ipv4 address**
+
+- Results returned
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+39. Congratulations to the player on completing the lab
+
+
+.. image:: pictures/00024a4-practice.png
+   :align: center
+   :width: 700px
+
+
+
+
 
 
 
