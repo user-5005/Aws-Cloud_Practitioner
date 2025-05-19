@@ -358,7 +358,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00025a4-practice.png
    :align: center
    :width: 700px
 
@@ -373,7 +373,7 @@ PRACTICE
 - Select **Security group**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00026a4-practice.png
    :align: center
    :width: 700px
 
@@ -388,7 +388,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00027a4-practice.png
    :align: center
    :width: 700px
 
@@ -399,7 +399,7 @@ PRACTICE
 - Select **Edit inbound rules**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00028a4-practice.png
    :align: center
    :width: 700px
 
@@ -415,7 +415,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00029a4-practice.png
    :align: center
    :width: 700px
 
@@ -426,7 +426,7 @@ PRACTICE
 - Select **Add rule**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00030a4-practice.png
    :align: center
    :width: 700px
 
@@ -441,7 +441,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00031a4-practice.png
    :align: center
    :width: 700px
 
@@ -456,7 +456,7 @@ PRACTICE
 - Select **Save rules**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00032a4-practice.png
    :align: center
    :width: 700px
 
@@ -471,7 +471,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00033a4-practice.png
    :align: center
    :width: 700px
 
@@ -482,7 +482,7 @@ PRACTICE
 - Select **Instances**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00034a4-practice.png
    :align: center
    :width: 700px
 
@@ -495,7 +495,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00035a4-practice.png
    :align: center
    :width: 700px
 
@@ -510,7 +510,7 @@ PRACTICE
 - Select and copy **Public IPv4 address**
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00036a4-practice.png
    :align: center
    :width: 700px
 
@@ -525,7 +525,7 @@ PRACTICE
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00037a4-practice.png
    :align: center
    :width: 700px
 
@@ -538,7 +538,7 @@ PRACTICE
 - Results returned
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00038a4-practice.png
    :align: center
    :width: 700px
 
@@ -546,7 +546,7 @@ PRACTICE
 39. Congratulations to the player on completing the lab
 
 
-.. image:: pictures/00024a4-practice.png
+.. image:: pictures/00039a4-practice.png
    :align: center
    :width: 700px
 
