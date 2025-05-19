@@ -29,6 +29,4 @@ Lab #5 of **AWS Cloud Quest**: **Cloud Practitioner** is **AWS Pricing Calculato
    a5 - diy
 
 
-.. raw:: html
 
-   <h2 class="my-header">Perform</h2>
