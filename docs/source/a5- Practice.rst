@@ -20,7 +20,7 @@ PRACTICE
 - Select the arrow to the right to see the next step
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001A5-practice.png
    :align: center
    :width: 700px
 
@@ -35,7 +35,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002A5-practice.png
    :align: center
    :width: 700px
 
@@ -48,7 +48,7 @@ PRACTICE
 - Select **Create estimate**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003A5-practice.png
    :align: center
    :width: 700px
 
@@ -63,7 +63,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0004A5-practice.png
    :align: center
    :width: 700px
 
@@ -71,7 +71,7 @@ PRACTICE
 5. Select **My Estimate**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0005A5-practice.png
    :align: center
    :width: 700px
 
@@ -86,7 +86,7 @@ PRACTICE
 _ Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0006A5-practice.png
    :align: center
    :width: 700px
 
@@ -97,7 +97,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Add group**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0007A5-practice.png
    :align: center
    :width: 700px
 
@@ -112,7 +112,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0008A5-practice.png
    :align: center
    :width: 700px
 
@@ -125,7 +125,7 @@ _ Select the arrow to the right to see the next steps
 - Then, select **Add group**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0009A5-practice.png
    :align: center
    :width: 700px
 
@@ -140,7 +140,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00010A5-practice.png
    :align: center
    :width: 700px
 
@@ -151,7 +151,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Add service**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00011A5-practice.png
    :align: center
    :width: 700px
 
@@ -166,7 +166,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00012A5-practice.png
    :align: center
    :width: 700px
 
@@ -179,7 +179,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Configure**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00013A5-practice.png
    :align: center
    :width: 700px
 
@@ -194,7 +194,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00014A5-practice.png
    :align: center
    :width: 700px
 
@@ -209,7 +209,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Advanced estimate**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00015A5-practice.png
    :align: center
    :width: 700px
 
@@ -224,7 +224,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00016A5-practice.png
    :align: center
    :width: 700px
 
@@ -239,7 +239,7 @@ _ Select the arrow to the right to see the next steps
 - **Workload days**, choose the days of the week
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00017A5-practice.png
    :align: center
    :width: 700px
 
@@ -254,7 +254,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00018A5-practice.png
    :align: center
    :width: 700px
 
@@ -269,7 +269,7 @@ _ Select the arrow to the right to see the next steps
 - **Duration of peak** enter 8 and 0
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00019A5-practice.png
    :align: center
    :width: 700px
 
@@ -284,7 +284,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00020A5-practice.png
    :align: center
    :width: 700px
 
@@ -301,7 +301,7 @@ _ Select the arrow to the right to see the next steps
 - Select **t2.medium**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00021A5-practice.png
    :align: center
    :width: 700px
 
@@ -317,7 +317,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00022A5-practice.png
    :align: center
    :width: 700px
 
@@ -332,7 +332,7 @@ _ Select the arrow to the right to see the next steps
 - Select **estimated workload hours**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00023A5-practice.png
    :align: center
    :width: 700px
 
@@ -348,7 +348,7 @@ _ Select the arrow to the right to see the next steps
 
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00024A5-practice.png
    :align: center
    :width: 700px
 
@@ -356,7 +356,7 @@ _ Select the arrow to the right to see the next steps
 25. View **Estimated workload hours**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00025A5-practice.png
    :align: center
    :width: 700px
 
@@ -371,7 +371,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00026A5-practice.png
    :align: center
    :width: 700px
 
@@ -388,7 +388,7 @@ _ Select the arrow to the right to see the next steps
 - **Amount changed per snapshot**, select 1
                    
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00027A5-practice.png
    :align: center
    :width: 700px
 
@@ -403,7 +403,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00028A5-practice.png
    :align: center
    :width: 700px
 
@@ -418,7 +418,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Show calculations**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00029A5-practice.png
    :align: center
    :width: 700px
 
@@ -433,7 +433,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00030A5-practice.png
    :align: center
    :width: 700px
 
@@ -441,7 +441,7 @@ _ Select the arrow to the right to see the next steps
 31. Review and select **Add to my estimate**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00031A5-practice.png
    :align: center
    :width: 700px
 
@@ -456,7 +456,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00032A5-practice.png
    :align: center
    :width: 700px
 
@@ -464,7 +464,7 @@ _ Select the arrow to the right to see the next steps
 33. Result interface **Web Servers**, select **Share**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00033A5-practice.png
    :align: center
    :width: 700px
 
@@ -479,7 +479,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00034A5-practice.png
    :align: center
    :width: 700px
 
@@ -490,7 +490,7 @@ _ Select the arrow to the right to see the next steps
 - Select **Agree and continue**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00035A5-practice.png
    :align: center
    :width: 700px
 
@@ -505,7 +505,7 @@ _ Select the arrow to the right to see the next steps
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00036A5-practice.png
    :align: center
    :width: 700px
 
@@ -513,7 +513,7 @@ _ Select the arrow to the right to see the next steps
 37. Select **Copy public link**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00037A5-practice.png
    :align: center
    :width: 700px
 
@@ -521,7 +521,7 @@ _ Select the arrow to the right to see the next steps
 38. Congratulations to the player on completing the lab
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/00038A5-practice.png
    :align: center
    :width: 700px
 
