@@ -13,8 +13,10 @@ Lab #4 of **AWS Cloud Quest: Cloud Practitioner** is **Internet Access for VPC R
 
    <h2 class="my-header">Content</h2>
 
+
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :titlesonly:
 
    a4- learn
@@ -26,6 +28,7 @@ Lab #4 of **AWS Cloud Quest: Cloud Practitioner** is **Internet Access for VPC R
 .. raw:: html
 
    <h2 class="my-header">Perform</h2>
+
 
 .. info::
 
