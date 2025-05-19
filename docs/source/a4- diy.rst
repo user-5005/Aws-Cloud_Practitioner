@@ -12,7 +12,7 @@ DIY
 Select **DIY**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001a4-diy.png
    :align: center
    :width: 700px
 
@@ -31,7 +31,7 @@ Select **DIY**
 - Read **SOLUTION VALIDATION METHOD**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002a4-diy.png
    :align: center
    :width: 700px
 
@@ -39,9 +39,19 @@ Select **DIY**
 3. In the **AWS Console** page, find and select **EC2**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003a4-diy.png
    :align: center
    :width: 700px
 
 
-4. 
+4. Select **Instances**
+
+
+- Select **Security**
+
+- In **Security groups**, select **DbServerSecurityGroup**
+
+
+.. image:: pictures/0004a4-diy.png
+   :align: center
+   :width: 700px
