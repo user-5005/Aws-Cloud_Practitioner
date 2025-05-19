@@ -392,6 +392,147 @@ _ Select the arrow to the right to see the next steps
    :align: center
    :width: 700px
 
+
+28. In the **Practice** interface
+
+
+- Read step 15 of **Cloud Economics**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+29. In **Data Transfer**
+
+
+- **Select Internet (free)**, enter 1, select **TB per month**
+
+- In **Outbound Data Transfer**, select **Internet($0.05 - $0.09 per GB)**, enter 100, select **GB per month**
+
+- Select **Show calculations**
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+30. In the **Practice** interface
+
+
+- Read step 16 of **Cloud Economics**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+31. Review and select **Add to my estimate**
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+32. In the **Practice** interface
+
+
+- Read step 17 of **Cloud Economics**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+33. Result interface **Web Servers**, select **Share**
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+34. In the **Practice**interface
+
+
+- Read step 18 of **Cloud Economics**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+35. In **Save estimate**
+
+
+- Select **Agree and continue**
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+36. In the **Practice** interface
+
+
+- Read step 19 of **Cloud Economics**
+
+- Read **CONCEPT**
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+37. Select **Copy public link**
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+38. Congratulations to the player on completing the lab
+
+
+.. image:: pictures/amazon.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
                    
 
 
