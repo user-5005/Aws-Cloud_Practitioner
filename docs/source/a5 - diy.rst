@@ -17,7 +17,7 @@ DIY
 - Read **SOLUTION VALIDATION METHOD**
 
 
-.. image:: pictures/0000-diyA.png
+.. image:: pictures/0001B-diy.png
    :align: center
    :width: 700px
 
@@ -28,7 +28,7 @@ DIY
 - Select **Create estimate**
 
 
-.. image:: pictures/0001-diyA.png
+.. image:: pictures/0002B-diyA.png
    :align: center
    :width: 700px
 
@@ -38,7 +38,7 @@ DIY
 - Select **Add group**
 
 
-.. image:: pictures/0002-diyA.png
+.. image:: pictures/0003B-diy.png
    :align: center
    :width: 700px
 
@@ -50,6 +50,6 @@ DIY
 Select **Add group**
 
 
-.. image:: pictures/0003-diyA.png
+.. image:: pictures/0004B-diy.png
    :align: center
    :width: 700px
