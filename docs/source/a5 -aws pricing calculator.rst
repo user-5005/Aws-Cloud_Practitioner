@@ -17,3 +17,18 @@ Lab #5 of **AWS Cloud Quest**: **Cloud Practitioner** is **AWS Pricing Calculato
 .. raw:: html
 
    <h2 class="my-header">Content</h2>
+
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   a5 - learn
+   a5 - plan
+   a5 - practice
+   a5 - diy
+
+
+.. raw:: html
+
+   <h2 class="my-header">Perform</h2>
