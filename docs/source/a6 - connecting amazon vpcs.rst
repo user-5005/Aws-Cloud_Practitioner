@@ -16,7 +16,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 - Select **ROUTE AND GO**
 
 
-.. image:: pictures/0001B-diy.png
+.. image:: pictures/0001B-overview.png
    :align: center
    :width: 700px
 
@@ -25,7 +25,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 2. Select the ! icon
 
 
-.. image:: pictures/0001B-diy.png
+.. image:: pictures/0002B-overview.png
    :align: center
    :width: 700px
 
@@ -37,7 +37,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 - View **Rewards**
 
 
-.. image:: pictures/0001B-diy.png
+.. image:: pictures/0003B-overview.png
    :align: center
    :width: 700px
 
@@ -45,7 +45,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 4. Select **ACCEPT**
 
 
-.. image:: pictures/0001B-diy.png
+.. image:: pictures/0004B-overview.png
    :align: center
    :width: 700px
 
@@ -57,7 +57,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 - Select **GO TO SOLUTION CENTER**
 
 
-.. image:: pictures/0001B-diy.png
+.. image:: pictures/000B-overview.png
    :align: center
    :width: 700px
 
