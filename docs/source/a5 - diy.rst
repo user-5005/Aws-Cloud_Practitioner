@@ -28,7 +28,7 @@ DIY
 - Select **Create estimate**
 
 
-.. image:: pictures/0002B-diyA.png
+.. image:: pictures/0002B-diy.png
    :align: center
    :width: 700px
 
