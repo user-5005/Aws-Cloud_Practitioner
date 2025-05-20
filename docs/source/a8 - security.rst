@@ -16,9 +16,33 @@ A8 - Security
 - Select **ROUTE AND GO**
 - Choose the icon !
 
+.. image:: pictures/a80001-security.png
+   :align: center
+   :width: 700px
 
+2. In the city interface
 
+- View **Rewards**
+- Select **NEXT**
 
+.. image:: pictures/a80002-security.png
+   :align: center
+   :width: 700px
+
+3. In the city interface
+
+- See **Solution Annotations**
+- Select **ACCEPT**
+
+.. image:: pictures/a80003-security.png
+   :align: center
+   :width: 700px
+
+4. Select **GO TO SOLUTION CENTER**
+
+.. image:: pictures/a80004-security.png
+   :align: center
+   :width: 700px
 
 
 
