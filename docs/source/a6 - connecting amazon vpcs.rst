@@ -57,7 +57,7 @@ Lab #6 of **AWS Cloud Quest: Cloud Practitioner** is **Connecting Amazon VPCs**
 - Select **GO TO SOLUTION CENTER**
 
 
-.. image:: pictures/000B-overview.png
+.. image:: pictures/0005B-overview.png
    :align: center
    :width: 700px
 
