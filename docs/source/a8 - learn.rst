@@ -4,7 +4,7 @@ Learn
 .. info::
 
 
-  **Learn** helps players to understand more theory about.
+    Learn helps players to understand more theory about.
 
 
 
