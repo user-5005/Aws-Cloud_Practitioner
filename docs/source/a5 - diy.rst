@@ -61,7 +61,7 @@ DIY
 
 - Select **Add service**
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/0005B-diy.png
    :align: center
    :width: 700px
 
@@ -74,7 +74,7 @@ DIY
 - Select **Configure**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/0006B-diy.png
    :align: center
    :width: 700px
 
@@ -88,7 +88,7 @@ DIY
 
 - In **EC2 instance specifications**, select **Linux**
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/0007B-diy.png
    :align: center
    :width: 700px
 
@@ -107,7 +107,7 @@ DIY
 - **Duration of peak**, enter 8 and 0
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/0008B-diy.png
    :align: center
    :width: 700px
 
@@ -118,7 +118,7 @@ DIY
 - Select **t2.micro**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/0009B-diy.png
    :align: center
    :width: 700px
 
@@ -133,7 +133,7 @@ DIY
 - Select **estimate workload hours**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00010B-diy.png
    :align: center
    :width: 700px
 
@@ -150,7 +150,7 @@ DIY
 - **Amount changed per snapshot**, enter 1
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00011B-diy.png
    :align: center
    :width: 700px
 
@@ -158,7 +158,7 @@ DIY
 12. View results **Estimated workload hours**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00012B-diy.png
    :align: center
    :width: 700px
 
@@ -178,7 +178,7 @@ DIY
 
 - Select **TB per month**
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00013B-diy.png
    :align: center
    :width: 700px
 
@@ -189,7 +189,7 @@ DIY
 - View and select **Add to my estimate**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00014B-diy.png
    :align: center
    :width: 700px
 
@@ -200,7 +200,7 @@ DIY
 - Select **Share**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00015B-diy.png
    :align: center
    :width: 700px
 
@@ -211,7 +211,7 @@ DIY
 - Select Copy **public link**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00016B-diy.png
    :align: center
    :width: 700px
 
@@ -230,7 +230,7 @@ DIY
 - Then select **EXIT** to exit
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00017B-diy.png
    :align: center
    :width: 700px
 
@@ -243,7 +243,7 @@ DIY
 
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00018B-diy.png
    :align: center
    :width: 700px
 
@@ -252,7 +252,7 @@ DIY
 
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00019B-diy.png
    :align: center
    :width: 700px
 
@@ -260,7 +260,7 @@ DIY
 20. Select **COLLECT**
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00020B-diy.png
    :align: center
    :width: 700px
 
@@ -268,7 +268,7 @@ DIY
 21. Congratulations to the player receiving the reward
 
 
-.. image:: pictures/0004B-diy.png
+.. image:: pictures/00021B-diy.png
    :align: center
    :width: 700px
 
