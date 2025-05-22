@@ -142,7 +142,7 @@ Learn
 12. In the **Learn** interface
 
 
-- See step 9 of **Diagram Steps
+- See step 9 of Diagram Steps
 
 
 .. image:: pictures/00012a6-learn.png
