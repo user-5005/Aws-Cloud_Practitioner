@@ -47,7 +47,7 @@ Learn
    :width: 700px
 
 
-4. In the **Learn**interface
+4. In the **Learn** interface
 
 
 - See step 3 of **Diagram Steps**
