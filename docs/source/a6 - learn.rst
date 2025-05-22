@@ -16,7 +16,7 @@ Learn
 
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0001a6-learn.png
    :align: center
    :width: 700px
 
@@ -29,7 +29,7 @@ Learn
 
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0002a6-learn.png
    :align: center
    :width: 700px
 
@@ -42,7 +42,7 @@ Learn
 
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0003a6-learn.png
    :align: center
    :width: 700px
 
@@ -55,7 +55,7 @@ Learn
 - Select **Amazon VPC Peering Connections**
 
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0004a6-learn.png
    :align: center
    :width: 700px
 
