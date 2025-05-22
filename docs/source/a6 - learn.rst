@@ -60,6 +60,106 @@ Learn
    :width: 700px
 
 
+5. Watch a video about **Amazon VPC Peering Connections**
+
+
+- Select **X** to exit 
+
+
+.. image:: pictures/0005a6-learn.png
+   :align: center
+   :width: 700px
+
+
+6. In the **Learn** interface
+
+
+- See step 4 of **Diagram Steps**
+
+- Select **Amazon VPC Peering Connections**
+
+
+.. image:: pictures/0006a6-learn.png
+   :align: center
+   :width: 700px
+
+
+7. Watch video **Amazon VPC Peering Connections**
+
+
+- Select **X** to exit
+
+
+.. image:: pictures/0007a6-learn.png
+   :align: center
+   :width: 700px
+
+
+8. In the **Learn** interface
+
+
+- See step 5 of **Diagram Steps**
+
+
+.. image:: pictures/0008a6-learn.png
+   :align: center
+   :width: 700px
+
+
+9. In the **Learn** interface
+
+
+- See step 6 of **Diagram Steps**
+
+
+.. image:: pictures/0009a6-learn.png
+   :align: center
+   :width: 700px
+
+
+10. In the **Learn** interface
+
+
+- See step 7 of **Diagram Steps**
+
+
+.. image:: pictures/00010a6-learn.png
+   :align: center
+   :width: 700px
+
+
+11. In the **Learn interface**
+
+
+- See step 8 of **Diagram Steps**
+
+
+.. image:: pictures/00011a6-learn.png
+   :align: center
+   :width: 700px
+
+
+12. In the **Learn** interface
+
+
+- See step 9 of **Diagram Steps
+
+
+.. image:: pictures/00012a6-learn.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
