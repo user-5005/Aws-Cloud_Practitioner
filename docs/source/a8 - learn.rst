@@ -6,13 +6,11 @@ Learn
     **Learn** helps players to understand more theory about.
 
 
-
 1.In the **Learn** interface
 
 - Select **AWS IAM - Overview**
 
 .. image:: pictures/a80001-learn.png
-   :alt: Diagram
    :align: center
    :width: 700px
 
@@ -23,7 +21,6 @@ Learn
 - Select **X**
 
 .. image:: pictures/a80002-learn.png
-   :alt: Diagram
    :align: center
    :width: 700px
 
