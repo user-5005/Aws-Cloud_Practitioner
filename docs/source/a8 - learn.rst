@@ -12,6 +12,7 @@ Learn
 - Select **AWS IAM - Overview**
 
 .. image:: pictures/a80001-learn.png
+   :alt: Diagram
    :align: center
    :width: 700px
 
