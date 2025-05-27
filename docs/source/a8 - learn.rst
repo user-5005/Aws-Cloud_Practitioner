@@ -3,7 +3,6 @@ Learn
 
 .. info::
 
-
     Learn helps players to understand more theory about.
 
 
