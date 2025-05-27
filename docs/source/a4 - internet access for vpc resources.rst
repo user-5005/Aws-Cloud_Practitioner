@@ -32,7 +32,8 @@ Lab #4 of **AWS Cloud Quest: Cloud Practitioner** is **Internet Access for VPC R
    <h2 class="my-header">Perform</h2>
 
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
    After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4
 
