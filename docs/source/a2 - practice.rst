@@ -4,7 +4,7 @@ Practice
 .. admonition:: Info
    :class: tip
 
-    After watching **Plan**, the player prepares for **Practice**
+   After watching **Plan**, the player prepares for **Practice**
 
 1. Select **Practice** to perform the lab
 
