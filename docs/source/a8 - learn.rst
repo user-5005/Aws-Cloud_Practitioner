@@ -1,9 +1,10 @@
 Learn
 ===========
 
+
 .. info::
 
-    Learn helps players to understand more theory about.
+    **Learn** helps players to understand more theory about.
 
 
 
@@ -16,12 +17,14 @@ Learn
    :align: center
    :width: 700px
 
+
 2. In the **VIDEO CONCEPTS** interface
 
 - Watch video **AWS IAM - Overview**
 - Select **X**
 
 .. image:: pictures/a80002-learn.png
+   :alt: Diagram
    :align: center
    :width: 700px
 
