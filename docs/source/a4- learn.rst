@@ -2,11 +2,10 @@ Learn
 =============
 
   
-.. info::
+.. admonition:: Info
+   :class: tip
 
    **Learn** helps players understand more about Amazon VPC theory
-
-
 
 
 
