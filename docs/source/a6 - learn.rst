@@ -1,10 +1,10 @@
 Learn
 ================
 
+.. admonition:: Info
+   :class: tip
 
-.. info::
-
-    **Learn** helps players understand more theory about **Connecting VPCs**.
+   **Learn** helps players understand more theory about **Connecting VPCs**.
 
 
 1. In the **Learn** interface
@@ -13,7 +13,6 @@ Learn
 - See step 1 of **Diagram Steps**
 
 - Select **Amazon VPC Overview**
-
 
 
 .. image:: pictures/0001a6-learn.png
