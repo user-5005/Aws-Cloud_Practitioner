@@ -66,6 +66,7 @@ Learn
 - After watching the **Amazon Benefits** video, select **Amazon EBS Volume Types**
 - After watching the video **Amazon EBS Volume Types**, select **X** to exit
 
+
 .. image:: pictures/0008_a2learn.png
    :align: center
    :width: 700px
