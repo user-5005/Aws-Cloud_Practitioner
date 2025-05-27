@@ -1,14 +1,14 @@
 DIY
 ============
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
    After completing the lab, the player does **DIY**
 
 
 
-
-Select **DIY**
+1. Select **DIY**
 
 
 .. image:: pictures/0001a4-diy.png
