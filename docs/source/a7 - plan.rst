@@ -11,6 +11,6 @@ Plan
 - Read **DIY Goals**
 - Select **Practice** to perform the lab
 
-.. image:: pictures/0001-plan.png.png
+.. image:: pictures/0001-plan.png
    :align: center
    :width: 700px
