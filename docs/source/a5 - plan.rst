@@ -1,9 +1,10 @@
 Plan
 =======
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
-  To switch to **Plan**, players take the following steps after **Learn**
+   To switch to **Plan**, players take the following steps after **Learn**
 
 
 
