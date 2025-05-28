@@ -1,9 +1,10 @@
 Learn
 ===========
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
-  **Learn** helps players understand more theory about **Amazon Pricing Calculator**
+   **Learn** helps players understand more theory about **Amazon Pricing Calculator**
 
 
 1. In **Learn** interface, see step 1 of **Diagram Steps**
