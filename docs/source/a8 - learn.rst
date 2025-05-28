@@ -4,7 +4,7 @@ Learn
 .. admonition:: Info
    :class: tip
 
-    **Learn** helps players to understand more theory about.
+   **Learn** helps players to understand more theory about.
 
 
 1.In the **Learn** interface
