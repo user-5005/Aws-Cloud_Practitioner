@@ -1,7 +1,8 @@
 Learn
 ===========
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
     **Learn** helps players to understand more theory about.
 
