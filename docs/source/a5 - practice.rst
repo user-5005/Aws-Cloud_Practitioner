@@ -1,9 +1,9 @@
-**PRACTICE**
+PRACTICE
 ===================
 
 
-
-.. info::
+.. admonition:: Info
+   :class: tip
 
    After watching **Plan**, the player prepares for **Practice**
 
