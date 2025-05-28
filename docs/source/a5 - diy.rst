@@ -2,9 +2,10 @@ DIY
 ====================
 
 
-.. info::
+.. admonition:: Info
+   :class: tip
 
-  After completing the lab, the player does **DIY**
+   After completing the lab, the player does **DIY**
 
 
 
